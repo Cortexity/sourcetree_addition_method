@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20df16754e4614b4f923670dccc43180, type: 3}
+  m_Name: Nonogram Config 1
+  m_EditorClassIdentifier: 
+  NonogramSettings:
+    GridSize: {x: 5, y: 5}
+    MaxTime: 600
+    Hints:
+      useHints: 1
+      hintAmount: 5
+    GenerationType: 1
+  ColorSettings:
+    UseColors: 1
+    DefaultColor: {r: 1, g: 1, b: 1, a: 1}
+    ToggleColor: {r: 0, g: 0, b: 0, a: 1}
+    ColorIntensity: 1
+    GrayscaleThreshold: 1
+    GrayscaleColor: 1
+  PosterizeSettings:
+    PosterizeEnabled: 0
+    Level: 16.8
+  ImageGenerator:
+    Texture: {fileID: 2800000, guid: 8ef9e478d2f32144ebf77423931c6452, type: 3}
+    InputType: 1
+  RandomGenerator:
+    Difficulty: 3
+    Seed: 1
