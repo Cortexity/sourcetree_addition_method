@@ -1,0 +1,23 @@
+{
+    "name": "DTT.MinigameNonogram.Editor",
+    "rootNamespace": "DTT.Nonogram",
+    "references": [
+        "GUID:c6a12e1e013355540ab606f758b6c505",
+        "GUID:1711cb30f577ba1498364a78a6873853",
+        "GUID:b5e078f64d95bba4a8ba03b5b4940114",
+        "GUID:5c9ac00a6e6555246b387ddc8f2ea31e",
+        "GUID:028be8730f76a4b869d94165754392cc",
+        "GUID:18cfbcc6f76fa44dd97978c934f088b6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

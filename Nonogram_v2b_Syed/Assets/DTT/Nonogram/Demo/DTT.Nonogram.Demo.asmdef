@@ -1,0 +1,18 @@
+{
+    "name": "DTT.MinigameNonogram.Demo",
+    "rootNamespace": "DTT.Nonogram",
+    "references": [
+        "GUID:5c9ac00a6e6555246b387ddc8f2ea31e",
+        "GUID:40110409d6f32d94c8a49de52995a651",
+        "GUID:18cfbcc6f76fa44dd97978c934f088b6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
