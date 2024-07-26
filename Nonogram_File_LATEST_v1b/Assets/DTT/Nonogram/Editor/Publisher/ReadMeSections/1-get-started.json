@@ -1,0 +1,11 @@
+{
+  "title": "Nonogram: get started quickly",
+  "text": "[A Nonogram is a small game where you fill in tiles based on the numbers on the side of the nonogram. These numbers represents the amount of tiles attached to eachother. For each seperate number there will be a empty tile.][Want to dive deeper? Take a look at our documentation:][l]",
+  "links": [
+    {
+      "text": "Open documentation",
+      "url": "Documentation.pdf",
+      "inline": false
+    }
+  ]
+}
